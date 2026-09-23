@@ -1,0 +1,7 @@
+{
+  "name": "ApexZone Esports",
+  "description": "Complete Esports Tournament Platform with Match Management, Wallet, Solo/Duo/Squad, PvP Challenges, Leaderboards, Admin Panel and REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
